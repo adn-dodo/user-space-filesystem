@@ -116,6 +116,10 @@ A more detailed explanation of the filesystem layout, data structures, allocatio
 
 [`DESIGN.md`](DESIGN.md)
 
+
+## Acknowledgments
+
+UserFS was developed as a team project as part of the **Introduction to Linux and Embedded Systems** training at STMicroelectronics, within the **Linux System Programming** track, under the guidance of **Eng. Reda Maher**.
 ## Purpose
 
 UserFS was built as a hands-on systems programming project to understand what happens internally when applications create directories, open files, read or write data, allocate storage, resolve paths, and persist filesystem metadata.
